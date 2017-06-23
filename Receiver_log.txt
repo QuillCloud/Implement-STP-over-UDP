@@ -1,0 +1,3 @@
+Amount of Data Received (in bytes)    1592
+Number of Data Segments Received      32
+Number of duplicate segments received 9
